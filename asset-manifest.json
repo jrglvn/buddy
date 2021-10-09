@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/buddy/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/buddy/static/js/main.dddfa43d.chunk.js",
+    "main.js.map": "/buddy/static/js/main.dddfa43d.chunk.js.map",
+    "runtime-main.js": "/buddy/static/js/runtime-main.af210340.js",
+    "runtime-main.js.map": "/buddy/static/js/runtime-main.af210340.js.map",
+    "static/css/2.88485751.chunk.css": "/buddy/static/css/2.88485751.chunk.css",
+    "static/js/2.9df6e562.chunk.js": "/buddy/static/js/2.9df6e562.chunk.js",
+    "static/js/2.9df6e562.chunk.js.map": "/buddy/static/js/2.9df6e562.chunk.js.map",
+    "index.html": "/buddy/index.html",
+    "static/css/2.88485751.chunk.css.map": "/buddy/static/css/2.88485751.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/buddy/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.9df6e562.chunk.js.LICENSE.txt": "/buddy/static/js/2.9df6e562.chunk.js.LICENSE.txt",
+    "static/media/background.901b75c2.jpg": "/buddy/static/media/background.901b75c2.jpg",
+    "static/media/bottle2.6b8ee2b3.png": "/buddy/static/media/bottle2.6b8ee2b3.png",
+    "static/media/index.css": "/buddy/static/media/raleway-vietnamese-400-normal.8efa7e0a.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af210340.js",
+    "static/css/2.88485751.chunk.css",
+    "static/js/2.9df6e562.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.dddfa43d.chunk.js"
+  ]
+}
